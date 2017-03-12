@@ -1,0 +1,12 @@
+{
+	"name": "UIUX",
+	"version":"0.0.1",
+	"dependencies" : {
+		"angular-vs-repeat": "^1.1.7",
+		"lodash": "^4.15.0",
+		"angular": "1.5.8"
+	},
+	"engines": {
+		"node": ">=0.10.0"
+	}
+}
